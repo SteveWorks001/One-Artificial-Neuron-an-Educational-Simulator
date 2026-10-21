@@ -353,12 +353,9 @@ nothing from its neighbours. Only connections that exist by subject are listed b
 | Project | What it adds to this one |
 |---|---|
 | 2 — Perceptron | the same neuron as a two-class classifier: a decision boundary over a plane of points, plus a training rule that changes the weights after mistakes |
-| 3 — Mini Neural Network | several neurons arranged in layers (2 inputs → 3 hidden →
-1 output): a forward pass through a row of neurons |
-| 7 — Activation Functions | the same activation functions examined on their own, this
-time together with their derivatives |
-| 5 and 6 — Backpropagation, Neural Network Training | derivatives and training appear
-there; here they are deliberately absent |
+| 3 — Mini Neural Network | several neurons arranged in layers (2 inputs → 3 hidden →1 output): a forward pass through a row of neurons |
+| 7 — Activation Functions | the same activation functions examined on their own, thistime together with their derivatives |
+| 5 and 6 — Backpropagation, Neural Network Training | derivatives and training appearthere; here they are deliberately absent |
 
 The pair built here, `z = Σ + b` and `y = f(z)`, is the pair that keeps reappearing in
 every later project of the series.
