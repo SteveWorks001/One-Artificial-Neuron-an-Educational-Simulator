@@ -352,8 +352,7 @@ nothing from its neighbours. Only connections that exist by subject are listed b
 
 | Project | What it adds to this one |
 |---|---|
-| 2 — Perceptron | the same neuron as a two-class classifier: a decision boundary over
-a plane of points, plus a training rule that changes the weights after mistakes |
+| 2 — Perceptron | the same neuron as a two-class classifier: a decision boundary over a plane of points, plus a training rule that changes the weights after mistakes |
 | 3 — Mini Neural Network | several neurons arranged in layers (2 inputs → 3 hidden →
 1 output): a forward pass through a row of neurons |
 | 7 — Activation Functions | the same activation functions examined on their own, this
